@@ -1,4 +1,4 @@
-const assert = require("**assert");
+const assert = require("assert");
 const httpMocks = require("node-mocks-http");
 const exampleRouteHandler = require("./example-router");
 describe("Example Test 1", () => {
